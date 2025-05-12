@@ -1,5 +1,6 @@
-# Assalomu alaykum 👋
-Bu mening GitHub profilim — Muhammadaziz aka m209engineer
+# Hello 👋  
+My name is Muhammadaziz,This is my GitHub profile — m209engineer
+
 
 
 
